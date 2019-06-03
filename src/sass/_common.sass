@@ -1,0 +1,110 @@
+@import "vars"
+
+body
+	font-family: 'Gothic'
+	font-size: 14px
+
+.title-lg
+	font-size: 48px
+	color: #ffffff
+	font-family: 'Gothic-Bold'
+
+.bold
+	font-family: 'Gothic-Bold'
+
+.header 
+	background: rgba(112, 182, 44, 0.9)
+	font-family: 'Gothic-Bold'
+
+.container
+	max-width: 1280px
+	padding: 0 50px
+	margin: 0 auto
+	position: relative
+
+.header__wrap
+	display: flex
+	justify-content: space-between
+	align-items: center
+	padding: 10px 0
+
+.tel
+	padding: 13px 30px
+	background: linear-gradient(360deg, #003820 0%, #56A33E 120%)
+	opacity: 0.8
+	border-radius: 33px
+	&__link 
+		display: block
+		text-decoration: none
+		color: #E4F3DD
+
+.menu
+	display: flex
+	&__item
+		margin-right: 15px
+	&__link
+		font-family: 'Gothic-Bold'
+		color: #ffffff
+		text-decoration: none
+.lang
+	display: flex
+	flex-direction: column
+	&__item
+		display: block
+		color: #FFFFFF
+		font-size: 12px
+		line-height: 1.25
+		text-decoration: none
+		color: #FFFFFF
+	&__item:not(:last-child)
+		margin-bottom: 7px
+
+
+.one
+	position: relative
+	height: 640px
+	overflow: hidden
+
+.slider-one
+	&__info
+		position: absolute
+		top: 0
+		left: 0
+		height: 100%
+		width: 100%
+		background: url('../img/Frame.svg') no-repeat
+	&__info-in
+		padding-top: 200px
+		max-width: 496px
+	&__text
+		margin: 40px 0
+		font-size: 18px
+		color: #E4F3DD
+		max-width: 300px
+	&__item
+		img
+			display: block
+			width: 100%
+			object-fit: cover
+			height: 640px
+	&__btns
+		display: flex
+		cursor: pointer
+		img
+			display: block
+	&__btn
+		width: 120px
+		height: 50px
+		display: flex
+		align-items: center
+		justify-content: center
+	&__btn-prev
+		transition: background-image all 2s
+		&:hover
+			background-image: url('../img/Vector.svg')
+	&__btn-next
+		transform: rotate(-180deg)
+		&:hover
+			background-image: url('../img/Vector.svg')
+
+
