@@ -19,5 +19,22 @@ jQuery(document).ready(function($) {
 	  $('.js-slider-one').slick('slickNext');
 	});
 
+	$('.js-slider-two').slick({
+	  // dots: true,
+	  infinite: true,
+	  speed: 300,
+	  slidesToShow: 2,
+	  adaptiveHeight: true,
+	  arrows: false
+	});
+
+	$('.slider-two__btn-prev').on('click', function(){
+		$('.js-slider-two').slick('slickPrev');
+	});
+
+	$('.slider-two__btn-next').on('click', function(){
+	  $('.js-slider-two').slick('slickNext');
+	});
+
 });
 
