@@ -36,5 +36,23 @@ jQuery(document).ready(function($) {
 	  $('.js-slider-two').slick('slickNext');
 	});
 
+	$('.js-slider-work').slick({
+	  // dots: true,
+	  infinite: true,
+	  speed: 300,
+	  slidesToShow: 1,
+	  adaptiveHeight: true,
+	  arrows: false,
+	  dots: true
+	});
+
+	$('.slider-work__btn-prev').on('click', function(){
+		$('.js-slider-work').slick('slickPrev');
+	});
+
+	$('.slider-work__btn-next').on('click', function(){
+	  $('.js-slider-work').slick('slickNext');
+	});
+
 });
 

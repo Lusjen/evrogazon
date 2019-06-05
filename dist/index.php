@@ -121,154 +121,289 @@
 	</div>
 	<!-- end one -->
 	<!-- begin two -->
-		<div class="two">
-			<div class="container">
-				<div class="two__title">
-					<h2 class="title-md">Проектування</h2>
-				</div>
-				
-				<div class="two__wrap">
-					<div class="two__item">
-						<div class="two__subtitle">
-							Ландшафтне проектування Київ і Проект ландшафтного дизайну
-						</div>
-						<div class="two__info">
-							<span class="green">Ландшафтне проектування можна сміливо вважати основою мистецтва під назвою "Ландшафтний дизайн"!</span> Але, для успішного втілення Вашої садової мрії в реальність, слід починати з того, щоб детально розробити ландшафтний проект. Для досягнення цієї мети фахівці з озеленення повинні мати досить глибокими науковими знаннями підкріпленими практичні досвідом. Саме такі люди будуть займатися ландшафтним проектуванням озеленення Вашої ділянки якщо Ви звернетеся в компанію "Магія саду" Київ.
-							Але, для успішного втілення Вашої садової мрії в реальність, слід починати з того, щоб детально розробити ландшафтний проект. Для досягнення цієї мети фахівці з озеленення повинні мати досить глибокими науковими знаннями підкріпленими практичні досвідом. Саме такі люди будуть займатися ландшафтним проектуванням озеленення Вашої ділянки якщо Ви звернетеся в компанію "Магія саду" Київ.
-							</span>
-						</div>
+	<div class="two">
+		<div class="container">
+			<div class="two__title">
+				<h2 class="title-md">Проектування</h2>
+			</div>
+			
+			<div class="two__wrap">
+				<div class="two__item">
+					<div class="two__subtitle">
+						Ландшафтне проектування Київ і Проект ландшафтного дизайну
 					</div>
-					<div class="two__item">
-						<div class="slider-two">
-							<div class="slider-two__top">
-								<div class="slider-two__title">Галерея</div>
-								<div class="slider-two__btns">
-									<div class="slider-two__btn slider-two__btn-prev">
-										<svg width="29" height="17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.412 9.127c-8.221-.065-16.377-.13-24.565-.162 2.363 2.168 4.66 4.466 6.894 6.764 1.23 1.295-1.068.939-1.748.259a150.261 150.261 0 0 0-7.962-7.767C.87 8.059.514 7.573.772 7.314l.065-.064c.033-.033.033-.033.097-.033C4.106 5.6 6.727 3.431 8.896.615c.55-.744 2.88.744 2.362 1.392C9.64 4.078 7.829 5.826 5.692 7.25c6.99.064 13.981.13 20.94.162.809.032 2.75 1.715 1.78 1.715z" fill="#000000"/></svg>
-									</div>
-									<div class="slider-two__btn slider-two__btn-next">
-										<svg width="29" height="17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.412 9.127c-8.221-.065-16.377-.13-24.565-.162 2.363 2.168 4.66 4.466 6.894 6.764 1.23 1.295-1.068.939-1.748.259a150.261 150.261 0 0 0-7.962-7.767C.87 8.059.514 7.573.772 7.314l.065-.064c.033-.033.033-.033.097-.033C4.106 5.6 6.727 3.431 8.896.615c.55-.744 2.88.744 2.362 1.392C9.64 4.078 7.829 5.826 5.692 7.25c6.99.064 13.981.13 20.94.162.809.032 2.75 1.715 1.78 1.715z" fill="#000000"/></svg>
-									</div>
-								</div>
-							</div>
-							<div class="slider-two__wrap js-slider-two">
-								<div class="slider-two__item">
-									<img src="img/sl-two1.jpg" alt="">
-								</div>
-								<div class="slider-two__item">
-									<img src="img/sl-two2.jpg" alt="">
-								</div>
-								<div class="slider-two__item">
-									<img src="img/sl-two1.jpg" alt="">
-								</div>
-								<div class="slider-two__item">
-									<img src="img/bg-1.png" alt="">
-								</div>
-							</div>
-							
-							
-						</div>
-					</div>	
-
+					<div class="two__info">
+						<span class="green">Ландшафтне проектування можна сміливо вважати основою мистецтва під назвою "Ландшафтний дизайн"!</span> Але, для успішного втілення Вашої садової мрії в реальність, слід починати з того, щоб детально розробити ландшафтний проект. Для досягнення цієї мети фахівці з озеленення повинні мати досить глибокими науковими знаннями підкріпленими практичні досвідом. Саме такі люди будуть займатися ландшафтним проектуванням озеленення Вашої ділянки якщо Ви звернетеся в компанію "Магія саду" Київ.
+						Але, для успішного втілення Вашої садової мрії в реальність, слід починати з того, щоб детально розробити ландшафтний проект. Для досягнення цієї мети фахівці з озеленення повинні мати досить глибокими науковими знаннями підкріпленими практичні досвідом. Саме такі люди будуть займатися ландшафтним проектуванням озеленення Вашої ділянки якщо Ви звернетеся в компанію "Магія саду" Київ.
+						</span>
+					</div>
 				</div>
+				<div class="two__item">
+					<div class="slider-two">
+						<div class="slider-two__top">
+							<div class="slider-two__title">Галерея</div>
+							<div class="slider-two__btns">
+								<div class="slider-two__btn slider-two__btn-prev">
+									<svg width="29" height="17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.412 9.127c-8.221-.065-16.377-.13-24.565-.162 2.363 2.168 4.66 4.466 6.894 6.764 1.23 1.295-1.068.939-1.748.259a150.261 150.261 0 0 0-7.962-7.767C.87 8.059.514 7.573.772 7.314l.065-.064c.033-.033.033-.033.097-.033C4.106 5.6 6.727 3.431 8.896.615c.55-.744 2.88.744 2.362 1.392C9.64 4.078 7.829 5.826 5.692 7.25c6.99.064 13.981.13 20.94.162.809.032 2.75 1.715 1.78 1.715z" fill="#000000"/></svg>
+								</div>
+								<div class="slider-two__btn slider-two__btn-next">
+									<svg width="29" height="17" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M28.412 9.127c-8.221-.065-16.377-.13-24.565-.162 2.363 2.168 4.66 4.466 6.894 6.764 1.23 1.295-1.068.939-1.748.259a150.261 150.261 0 0 0-7.962-7.767C.87 8.059.514 7.573.772 7.314l.065-.064c.033-.033.033-.033.097-.033C4.106 5.6 6.727 3.431 8.896.615c.55-.744 2.88.744 2.362 1.392C9.64 4.078 7.829 5.826 5.692 7.25c6.99.064 13.981.13 20.94.162.809.032 2.75 1.715 1.78 1.715z" fill="#000000"/></svg>
+								</div>
+							</div>
+						</div>
+						<div class="slider-two__wrap js-slider-two">
+							<div class="slider-two__item">
+								<img src="img/sl-two1.jpg" alt="">
+							</div>
+							<div class="slider-two__item">
+								<img src="img/sl-two2.jpg" alt="">
+							</div>
+							<div class="slider-two__item">
+								<img src="img/sl-two1.jpg" alt="">
+							</div>
+							<div class="slider-two__item">
+								<img src="img/bg-1.png" alt="">
+							</div>
+						</div>
+						
+						
+					</div>
+				</div>	
+
 			</div>
 		</div>
+	</div>
 	<!-- end two -->
 
 	<!-- begin three -->
-		<div class="three">
-			<div class="container">
-				<div class="three__title">
-					<p class="title-lg">
-						Ландшафтний проект складається з наступних складових частин:
-					</p>
+	<div class="three">
+		<div class="container">
+			<div class="three__title">
+				<span class="title-lg">
+					Ландшафтний проект складається з наступних складових частин:
+				</span>
+			</div>
+			<div class="three__info">
+				<div class="three__item">
+					<ul class="list-block">
+						<li class="list-block__item">
+							<img src="img/Icon 1.svg" alt="">
+							<span class="list-block__text">Ландшафтний ескіз дизайн проекту;</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 2.svg" alt="">
+							<span class="list-block__text">3D-візуалізація ландшафтного проекту;</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 3.svg" alt="">
+							<span class="list-block__text">2D-візуалізація ландшафтного проекту;</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 4.svg" alt="">
+							<span class="list-block__text">Генеральний план ландшафтного дизайн проекту;</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 5.svg" alt="">
+							<span class="list-block__text">Дендрологічний план озеленення (дендроплан);</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 6.svg" alt="">
+							<span class="list-block__text">Роздільне креслення</span>
+						</li>
+					</ul>
 				</div>
-				<div class="three__info">
-					<div class="three__item">
-						<ul class="list-block">
-							<li class="list-block__item">
-								<img src="img/Icon 1.svg" alt="">
-								<span class="list-block__text">Ландшафтний ескіз дизайн проекту;</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 2.svg" alt="">
-								<span class="list-block__text">3D-візуалізація ландшафтного проекту;</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 3.svg" alt="">
-								<span class="list-block__text">2D-візуалізація ландшафтного проекту;</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 4.svg" alt="">
-								<span class="list-block__text">Генеральний план ландшафтного дизайн проекту;</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 5.svg" alt="">
-								<span class="list-block__text">Дендрологічний план озеленення (дендроплан);</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 6.svg" alt="">
-								<span class="list-block__text">Роздільне креслення</span>
-							</li>
-						</ul>
-					</div>
-					<div class="three__item">
-						<ul class="list-block">
-							<li class="list-block__item">
-								<img src="img/Icon 7.svg" alt="">
-								<span class="list-block__text">Посадкове креслення;</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 8.svg" alt="">
-								<span class="list-block__text">План-схема системи автоматичного поливу;</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 9.svg" alt="">
-								<span class="list-block__text">Схема розстановки освітлювальних приладів;</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 10.svg" alt="">
-								<span class="list-block__text">Геодезична або топографічна зйомка ділянки (при необхідності);</span>
-							</li>
-							<li class="list-block__item">
-								<img src="img/Icon 11.svg" alt="">
-								<span class="list-block__text">Робочі креслення реалізації ландшафтного проектування дизайну озеленення.</span>
-							</li>						
-						</ul>
-					</div>
-				</div>
-				<div class="three__btn">
-					<a href="" target="blank" class="btn-white">Прайс</a>
+				<div class="three__item">
+					<ul class="list-block">
+						<li class="list-block__item">
+							<img src="img/Icon 7.svg" alt="">
+							<span class="list-block__text">Посадкове креслення;</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 8.svg" alt="">
+							<span class="list-block__text">План-схема системи автоматичного поливу;</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 9.svg" alt="">
+							<span class="list-block__text">Схема розстановки освітлювальних приладів;</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 10.svg" alt="">
+							<span class="list-block__text">Геодезична або топографічна зйомка ділянки (при необхідності);</span>
+						</li>
+						<li class="list-block__item">
+							<img src="img/Icon 11.svg" alt="">
+							<span class="list-block__text">Робочі креслення реалізації ландшафтного проектування дизайну озеленення.</span>
+						</li>						
+					</ul>
 				</div>
 			</div>
+			<div class="three__btn">
+				<a href="" target="blank" class="btn-white">Прайс</a>
+			</div>
 		</div>
+	</div>
 	<!-- end three -->
 
 	<!-- begin four -->
-		<div class="four">
-			<div class="container">
-				<div class="four__title">
-					<h2 class="title-md">
-						Системи автоматичного поливу
-					</h2>
-				</div>
+	<div class="four">
+		<div class="container">
+			<div class="four__title">
+				<h2 class="title-md">
+					Системи автоматичного поливу
+				</h2>
 			</div>
-				<div class="four__top">
-					<div class="container">
-						<div class="four__text-bold">
-							Надаємо послуги по встановленнюта продажу обладнання для автополиву
+		</div>
+		<div class="four__top">
+			<div class="container">
+				<div class="four__in">
+					<div class="four__text-bold text-bold">
+						Надаємо послуги по встановленню та продажу обладнання для автополиву
+					</div>
+					<div class="four__text-light text-light">
+						<span class="bold">Автоматичний полив вже давно перестав бути заморською дивиною</span> і використовується наразі для зрошування газонів в міських парках , на футбольних майданчиках та на ділянках заміських будинків.
+					</div>
+					<div class="four__images">
+						<img src="img/four.svg" alt="">
+					</div>
+				</div>
+			</div>	
+		</div>
+		<div class="four__center">
+			<!-- <img src="img/maxresdefault.jpg" alt=""> -->
+			<div class="four__main">
+				<div class="four__left">
+					<div class="four__item">
+						<img src="img/rectangle1.png" alt="">
+						<div class="four__info">
+							<div class="four__icon">
+								<img src="img/ball.svg" alt="">
+							</div>
+							<p>Спортивний Газон</p> 
+							<p class="text-big bold">65,00 грн/м</p>
 						</div>
-						<div class="four__text-light">
-							Автоматичний полив вже давно перестав бути заморською дивиною і використовується наразі для зрошування газонів в міських парках , на футбольних майданчиках та на ділянках заміських будинків.
-						</div>
-						<div class="four__images">
-							<img src="img/four.svg" alt="">
+						
+					</div>
+					<div class="four__item">
+						<img src="img/rectangle1.png" alt="">
+						<div class="four__info">
+							<div class="four__icon">
+								<img src="img/butterfl.svg" alt="">
+							</div>
+							<p>Універсальний Газон</p> 
+							<p class="text-big bold">57,00 грн/м</p>
 						</div>
 					</div>
-					
 				</div>
+				<div class="four__right">
+					<img src="img/letter.png" alt="">
+					<div class="four__info-big">
+						<div class="four__subtitle">
+							<span class="title-lg">
+								Рулонний газон
+							</span>
+						</div>
+						<p class="text-bold">Разом з газоном Ви отримаєте</p>
+						<p>не тільки красивий ландшафт своєї території, а також і повний спектр послуг і рекомендацій по догляду.</p>
+						<div class="four__btn">
+							<a href="" class="btn-green">Прайс</a>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
+		<div class="four__bottom">
+			<div class="container">
+				<div class="four__in">
+					<div class="four__proect">
+						<img src="img/dozgdevanie.png" alt="">
+					</div>
+					<div class="four__description">
+						<div class="four__description-name title-sm">
+							Розробка проектів автополиву
+						</div>
+						<div class="four__description-text">
+							<p>
+								<span class="green">Автоматичний полив - це складна система дощовиків, форсунок, електромагнітних клапанів, трубопроводу з сполученими фітингами що керується контролерами.</span> Лідером в даний час на цьому ринку є компанія Hunter Industries і Rain Bird що створили величезний спектр устаткування для вирішення будь-яких завдань і продовжують вводити різноманітні інновації.
+							</p>
+							<p>						
+								<span class="green">Для поливу різних площ існують різні дощовики, що розрізняються по потужності і споживанню води.</span> Так, наприклад, для поливу футбольних полів найкращим рішенням будуть роторні дощовики з металевим штоком. Такі
+							</p>
+							<p>						
+								<span class="green">Для поливу різних площ існують різні дощовики, що розрізняються по потужності і споживанню води.</span> Так, наприклад, для поливу футбольних полів найкращим рішенням будуть роторні дощовики з металевим штоком. Такі
+							</p>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			
+		</div>
+	</div>
 	<!-- end four -->
+		
+	<!-- begin five -->
+	<div class="five">
+		<div class="container">
+			<div class="five__title">
+				<h2 class="title-md">
+					Відео-фото
+				</h2>
+			</div>
+			<div class="five__subtitle title-sm">Наші роботи</div>
+		</div>
+		<div class="slider-work">
+			<div class="slider-work__in js-slider-work">
+				<div class="slider-work__item">
+					<img src="img/slider-work1.jpg" alt="">
+				</div>
+				<div class="slider-work__item">
+					<img src="img/slider-work1.jpg" alt="">
+				</div>
+				<div class="slider-work__item">
+					<img src="img/slider-work1.jpg" alt="">
+				</div>
+			</div>
+			<div class="slider-work__btns">
+				<div class="slider-work__btn-prev">
+					<img src="img/Arrow.svg" alt="">
+				</div>
+				<div class="slider-work__btn-next">
+					<img src="img/Arrow.svg" alt="">
+				</div>
+			</div>	
+		</div>
+		<div class="video">
+			<div class="container">
+				<div class="video__in">
+					<div class="video__item">
+						<div class="video__title title-sm">
+							Назва відео
+						</div>
+						<div class="video__video">
+							<video controls width="400" height="300">
+							  <source src="video/video.mp4" type="video/mp4"><!-- MP4 для Safari, IE9, iPhone, iPad, Android, и Windows Phone 7 -->
+							  <source src="video.webm" type="video/video.webm"><!-- WebM/VP8 для Firefox4, Opera, и Chrome -->
+							</video>
+						</div>
+					</div>
+					<div class="video__item">
+						<div class="video__title title-sm">
+							Назва відео
+						</div>
+						<div class="video__video">
+							<video controls width="400" height="300">
+							  <source src="video/video.mp4" type="video/mp4"><!-- MP4 для Safari, IE9, iPhone, iPad, Android, и Windows Phone 7 -->
+							  <source src="video.webm" type="video/video.webm"><!-- WebM/VP8 для Firefox4, Opera, и Chrome -->
+							</video>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		
+	</div>
+	<!-- end five -->
 	
 	<script src="js/scripts.min.js"></script>
 	<script src=""></script>

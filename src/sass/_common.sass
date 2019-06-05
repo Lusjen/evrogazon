@@ -13,19 +13,29 @@ body
 
 .title-md
 	font-size: 36px
+	padding: 0 25px 10px 25px
 	color: #003820
 	position: relative
-	display: inline-block
-	&:after
-		content: ''
-		position: absolute
-		width: 120%
-		height: 30px
-		background: #6CBE45
-		bottom: 3px
-		left: -10%
-		right: -10%
-		z-index: -1
+	display: inline
+	text-transform: uppercase
+	text-decoration: none
+	box-shadow: inset 0px -32px 0px #6CBE45
+	// &:after
+	// 	content: ''
+	// 	position: absolute
+	// 	width: 120%
+	// 	height: 30px
+	// 	background: #6CBE45
+	// 	bottom: 3px
+	// 	left: -10%
+	// 	right: -10%
+	// 	z-index: -1
+
+.title-sm
+	font-size: 24px
+	color: #003820
+	font-family: Gothic-Bold
+	line-height: 1.6
 
 .green
 	color: #7EC65C
@@ -45,6 +55,24 @@ body
 	text-align: center
 	display: block
 
+.btn-green
+	font-size: 18px
+	padding: 14px
+	border-radius: 40px
+	color: #E4F3DD
+	text-transform: uppercase
+	background: linear-gradient(180deg, #6CBE45 0%, #409027 100%)
+	box-shadow: 0px 10px 10px rgba(0, 56, 32, 0.1)
+	width: 100%
+	text-decoration: none
+	text-align: center
+	display: block
+
+.text-bold
+	font-size: 24px
+	color: #E4F3DD
+	font-family: 'Gothic-Bold'
+	line-height: 1.58
 
 .header
 	position: fixed
@@ -119,7 +147,8 @@ body
 .social
 	position: absolute
 	right: 0
-	top: 160px
+	top: 50vh
+	transform: translateY(-50%)
 	text-align: right
 	display: inline-block
 
@@ -296,15 +325,197 @@ body
 	padding-top: 40px
 	&__title
 		text-align: center
+		margin-bottom: 70px
 	&__top
 		padding: 40px 0
-		background: url('../img/rectangle.jpg')
+		background: url('../img/rectangle.png')
 		// opacity: 0.75
 		// background-image: url('../img/rectangle.jpg')
-		// background-repeat: no-repeat
-		// background-size: cover
+		background-repeat: no-repeat--
+		background-position: center
+		background-size: cover
+		color: #E4F3DD
+	&__in
+		display: flex
+		align-items: center
+		justify-content: space-between
+	&__text-bold
+		width: 30%
+	&__text-light
+		width: 33%
+	&__images
+		padding-right: 95px
+		widows: 20%
+	&__center
+		position: relative
+		background: url('../img/maxresdefault.jpg')
+		background-repeat: no-repeat
+		background-position: center
+		background-size: cover
+		color: #E4F3DD
+		img
+			width: 100%
+			display: block
+	&__main
+		display: flex
+		justify-content: space-between
+	&__right
+		position: relative
+	&__left
+		padding: 120px 0
+	&__item
+		position: relative
+		img
+			display: block
+			max-width: 100%
+	&__item:not(:last-child)
+		margin-bottom: 20px
+	&__info
+		position: absolute
+		top: 50%
+		left: 50%
+		transform: translate(-50%,-50%)
+		width: 100%
+		text-align: center
+		color: #E4F3DD
+	&__info-big
+		max-width: 388px
+		position: absolute
+		top: 20%
+		right: 16%
+	&__icon
+		width: 100px
+		height: 100px
+		border-radius: 50%
+		background-color: #6CBE45
+		position: relative
+		margin: 0 auto
+		img
+			max-width: 70px
+			// height: 60px
+			position: absolute
+			top: 50%
+			left: 50%
+			transform: translate(-50%,-50%)
+	&__btn
+		max-width: 280px
+		margin: 25px 0 0 auto
+	&__subtitle
+		margin-bottom: 15px
+	&__bottom
+		display: flex
+		padding: 60px 0
+	&__proect
+		flex: 0 0 41%
+		min-width: 41%
+		img
+			display: block
+			width: 100%
+	&__description
+		padding-left: 20px
+		flex: 0 0 59%
+		min-width: 59%
+	&__description-name
+		margin-bottom: 25px
+	&__description-text
+		padding-right: 65px
+		color: #567668
+		overflow-y: scroll
+		height: 230px
+		p
+  			margin-bottom: 20px
+		&::-webkit-scrollbar
+			width: 3px
+		&::-webkit-scrollbar-thumb
+  			background-color: #6CBE45
+
+.five
+	padding: 10px 0 60px
+	&__title,
+	&__subtitle
+		text-align: center
+		margin-bottom: 40px
+
+.slider-work
+	position: relative
+	&__item
+		img
+			display: block
+			width: 100%
+			object-fit: cover
+			min-height: 600px
+			max-height: 700px
+	&__btns
+		position: absolute
+		top: 50%
+		transform: translateY(-50%)
+		left: 0
+		right: 0
+		display: flex
+		justify-content: space-between
+	&__btn-prev
+		cursor: pointer
+		width: 100px
+		height: 119px
+		background-image: url('../img/subtract.png')
+		background-repeat: no-repeat
+		position: relative
+		img
+			position: absolute
+			top: 35%
+			left: 25%
+	&__btn-next
+		transform: rotate(-180deg)
+		cursor: pointer
+		width: 100px
+		height: 119px
+		background-image: url('../img/subtract.png')
+		background-repeat: no-repeat
+		position: relative
+		img
+			position: absolute
+			top: 35%
+			left: 25%
+	.slick-dots
+		position: absolute
+		bottom: 22px
+		left: 0
+		right: 0
+		display: flex
+		justify-content: center
+		align-items: center
+		li
+			margin: 0 10px
+			width: 10px
+			height: 10px
+			display: block
+			border-radius: 50%
+			padding: 0
+			background: white
+			border: none
+			button
+				opacity: 0
+		.slick-active
+			width: 15px
+			height: 15px
+			background-color: green
+
+.video
+	padding-top: 30px
+	&__in
+		display: flex
+		justify-content: space-between
+	&__item
+		width: 49%
+	&__title
+		margin-bottom: 20px
+	&__video
+		video
+			height: 100%
+			width: 100%
 
 
 
 
 
+    	
